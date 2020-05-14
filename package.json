@@ -1,0 +1,17 @@
+{
+  "name": "video-generation-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "puppeteer": "^3.0.4",
+    "puppeteer-recorder": "^1.0.7",
+    "videoshow": "^0.1.12"
+  }
+}
